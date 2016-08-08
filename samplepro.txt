@@ -1,0 +1,8 @@
+
+
+om the TAID Home Page link, select type of action and press OK button. From the TAID Menu click the Add New Record link.
+2.       Project: It is mandatory field. Select any value from scroll down list . Verify that by select nothing and press submit button should give an error.
+3.       Open date: It is mandatory field. It is read-only and contains the current date.
+4.       Due date: It is mandatory field. Specify the date for the field. Verify that by giving wrong date and press submit button should give an error.
+5.       Priority: It is mandatory field. Select any value from scroll down list. Verify that by select nothing and press submit button should give an error.
+6.       Owner(1):  It is mandatory field. Specify the QuicklookID or select QuicklookID from the lookup button . Verify that by giving wrong QuicklookID and press submit button should give an error.
